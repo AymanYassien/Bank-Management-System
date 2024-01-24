@@ -10,11 +10,11 @@ convert it into a big project with a Graphical User Interface (GUI) and Relation
 (RDBS).
 
 ## How to Install and Run the Project?
-[x] Clone code to your machine `(Prefered on Unix OS )`. 
-[x] Run code on `C++` Compiler. 
-[x] Login with UserName: `User1` & Password `1234`. 
-[x] Login with UserName: `User5` & Password `5555`. 
-[x] Notice differences between `User1` and `User5`.
+[1] Clone code to your machine `(Prefered on Unix OS )`. 
+[2] Run code on `C++` Compiler. 
+[3] Login with UserName: `User1` & Password `1234`. 
+[4] Login with UserName: `User5` & Password `5555`. 
+[5] Notice differences between `User1` and `User5`.
 
 ## More About This Project:
 - Apply All OOP’s principles and Concepts 
